@@ -26,23 +26,56 @@ This project demonstrates skills in data cleaning, data analysis, visualization,
 •	🚚 Calculate percentage of delivered orders 
 
 # Project Workflow
-1️⃣ Data Cleaning
+## 1️⃣ Data Cleaning
 •	Checked for missing values 
 •	Removed inconsistencies 
 •	Standardized data formats 
 •	Verified data accuracy 
-2️⃣ Data Processing
+## 2️⃣ Data Processing
 •	Created helper columns where required 
 •	Organized categorical variables 
 •	Ensured consistent naming conventions 
-3️⃣ Data Analysis
+## 3️⃣ Data Analysis
 •	Built multiple Pivot Tables 
 •	Performed aggregation and comparisons 
 •	Derived KPIs and business metrics 
-4️⃣ Dashboard Creation
+## 4️⃣ Dashboard Creation
 •	Designed interactive dashboard 
 •	Added slicers for dynamic filtering 
 •	Integrated charts and KPIs into one view 
 
 # Dashboard Preview
+<a href="https://github.com/Layek-Deepika123/Data-Analysis-Dashboard-Excel/blob/main/Vrinda%20Store%20Dashbord.jpg">Dashboard</a>
+
+ # Key Insights
+### 👩 Customer Behavior
+•	Women contribute ~64% of total purchases. 
+•	Female customers are the primary revenue drivers. 
+### 🎯 Age Group Analysis
+•	Adults (30–49 years) generate the highest number of orders (~50%). 
+### 📅 Sales Trend
+•	March recorded the highest sales and order volume. 
+•	Sales gradually decline toward year-end. 
+### 🌍 Top Performing States
+1.	Maharashtra (~2.99M) 
+2.	Karnataka (~2.65M) 
+3.	Uttar Pradesh (~2.10M) 
+These regions contribute the majority of revenue.
+### 🛒 Sales Channel Performance
+•	Amazon → 35% 
+•	Myntra → 23% 
+•	Flipkart → 22% 
+Online marketplaces dominate sales contribution.
+### 📦 Order Status
+•	92% orders successfully delivered 
+•	Minimal cancellations, returns, and refunds 
+### 🏆 Product Category
+Traditional wear categories such as Sarees, Kurtas, and Ethnic Dresses show the highest demand.
+
+# Business Recommendations
+•	🎯 Focus marketing campaigns on women aged 30–49 
+•	📍 Strengthen promotions in Maharashtra, Karnataka, and Uttar Pradesh 
+•	📢 Invest more in Amazon, Flipkart, and Myntra advertising 
+•	🎁 Promote top-selling ethnic fashion categories 
+•	🚀 Maintain strong delivery performance to retain customers 
 
